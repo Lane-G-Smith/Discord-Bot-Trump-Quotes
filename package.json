@@ -1,0 +1,20 @@
+{
+  "name": "Discord-Bot-Trump-Tweets",
+  "version": "1",
+  "description": "Discord Bot that posts Tweets from Donald Trump when called on. Uses the rest API from https://github.com/tronalddump-io",
+  "main": "trump.js",
+  "keywords": [],
+  "author": "Lane-G-Smith",
+  "license": "MIT",
+  "guildId": "",
+  "token": "",
+  "clientID": "1047980373419765831",
+  "scripts": {},
+
+  "dependencies": {
+    "discord.js": "^14.07.1",
+    "dotenv": "^16.3.1",
+    "node": "^19.8.1"
+  },
+  "devDependencies": {}
+}
