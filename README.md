@@ -9,7 +9,7 @@
         <br /><strong>Discord.js</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A simple vanilla javascript Discord bot for interacting with the Trump Quotes rest API from https://github.com/tronalddump-io. Got will post quotes from Donald Trump any time "Trump" is mentioned in chat.
+      <p align="center">A simple vanilla javascript Discord bot for interacting with the Trump Quotes rest API from https://github.com/tronalddump-io. Bot will post quotes from Donald Trump any time "Trump" is mentioned in chat.
       </p>
      </td>
    </tr>
