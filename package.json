@@ -1,7 +1,7 @@
 {
-  "name": "Discord-Bot-Trump-Tweets",
+  "name": "Discord-Bot-Trump-Quotes",
   "version": "1",
-  "description": "Discord Bot that posts Tweets from Donald Trump when called on. Uses the rest API from https://github.com/tronalddump-io",
+  "description": "Discord Bot that posts Quotes from Donald Trump when called on. Uses the rest API from https://github.com/tronalddump-io",
   "main": "trump.js",
   "keywords": [],
   "author": "Lane-G-Smith",
